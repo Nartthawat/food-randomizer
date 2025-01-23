@@ -29,7 +29,7 @@ A simple Python application using `tkinter` and `pygame` that helps you randomly
 1. Click the "สุ่มเลย!" button to pick a random food.
 2. The chosen food appears!
   
-[![Demo](https://i.imgflip.com/9hne7f.gif)](https://imgflip.com/gif/9hne7f)
+   [![Demo](https://i.imgflip.com/9hne7f.gif)](https://imgflip.com/gif/9hne7f)
 
 ## Contributing
 Feel free to fork the repository and submit a pull request if you'd like to contribute. Any suggestions or improvements are welcome!
