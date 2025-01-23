@@ -26,8 +26,8 @@ A simple Python application using `tkinter` and `pygame` that helps you randomly
     ```
 
 ## Usage
-- Click the "สุ่มเลย!" button to pick a random food.
-- The chosen food appears
+1. Click the "สุ่มเลย!" button to pick a random food.
+2. The chosen food appears!
   
 [![Demo](https://i.imgflip.com/9hne7f.gif)](https://imgflip.com/gif/9hne7f)
 
